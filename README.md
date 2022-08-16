@@ -27,3 +27,15 @@ This is an XNFT auction DAPPs where users can bid on NFTs
 ### Project Link
 https://xnft.vercel.app/
 
+### Recorded video demo of the integration (max 3mins)
+
+
+Person of contact incase there are any questions
+Blessing Nwakaku blessingchidinmanwakaku@gmail.com
+
+### UnstoppableDomain registered account email address
+
+blessingchidinmanwakaku@gmail.com
+
+## Learn More
+
