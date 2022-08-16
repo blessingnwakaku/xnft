@@ -11,7 +11,7 @@ const Reach = loadStdlib('ALGO');
 const uauth = new UAuth(
   {
     clientID: "d9e7f28b-7d96-4298-8933-e767a91096b0",
-    redirectUri: "https://firstunstoppable.vercel.app/",
+    redirectUri: "https://xnft.vercel.app/",
     scope: "openid wallet"
   }
 )
