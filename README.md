@@ -28,6 +28,9 @@ This is an XNFT auction DAPPs where users can bid on NFTs
 https://xnft.vercel.app/
 
 ### Recorded video demo of the integration (max 3mins)
+https://vimeo.com/740182127 -----Login sample
+
+https://vimeo.com/740183010 -----Domain Resolutions Search
 
 
 Person of contact incase there are any questions
